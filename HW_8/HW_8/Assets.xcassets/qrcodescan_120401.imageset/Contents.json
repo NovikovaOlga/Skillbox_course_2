@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "qrcodescan_120401.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
