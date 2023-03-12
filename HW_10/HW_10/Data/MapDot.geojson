@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "нельзя",
+        "location": "Опасно: зона зараженных",
+        "discipline": "zombieType1",
+        "title": "⛔️ Times Square ⛔️",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.985919,
+            40.757405,
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "нельзя",
+        "location": "Логово топляков",
+        "discipline": "zombieType1",
+        "title": "⛔️ Grand Central Terminal ⛔️",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.977152,
+            40.752800
+        ] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "нельзя",
+        "location": "Зона обитания щелкунов и бегунов",
+        "discipline": "zombieType1",
+        "title": "⛔️ Park West High School ⛔️",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.993083,
+            40.765396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "нельзя",
+        "location": "Зафиксированы нападения сталкеров",
+        "discipline": "zombieType1",
+        "title": "⛔️ WICKED The Musical ⛔️",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.984863,
+            40.763129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "можно",
+        "location": "Военная база цикад",
+        "discipline": "cicada2",
+        "title": "St.Patrick’s Cathedral 🧬",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.976131,
+            40.758501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "можно",
+        "location": "Пункт связи цикад",
+        "discipline": "cicada2",
+        "title": "Radio City Music Hall 📡",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.979855,
+            40.7600441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "нельзя",
+        "location": "Утечка радиоактивных веществ",
+        "discipline": "attention",
+        "title": "Bryant Park 🦠",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.983575,
+            40.753818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "можно",
+        "location": "Аптеки, одежда, оружие, запасы",
+        "discipline": "shop",
+        "title": "One Worldwide Plaza 🛍",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.986670,
+            40.762357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "можно",
+        "location": "Милфорд Плаза Отель",
+        "discipline": "safe",
+        "title": "Row NYC 🛌",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.988441,
+            40.758779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "можно",
+        "location": "Рокфеллеровский центр",
+        "discipline": "safe",
+        "title": "Rockefeller Center 🛌",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.978526,
+            40.758690
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "можно",
+        "location": "Пиццерия",
+        "discipline": "pizza",
+        "title": "Joe’s Pizza 🍹",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.986924,
+            40.754684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "можно",
+        "location": "Итальянская кухня",
+        "discipline": "pizza",
+        "title": "Becco 🍹",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.989893,
+            40.760782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "можно",
+        "location": "Универмаг",
+        "discipline": "food",
+        "title": "Macy’s 🛒",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.989283,
+            40.750882
+        ]
+      }
+    }
+  ]
+}
+
+

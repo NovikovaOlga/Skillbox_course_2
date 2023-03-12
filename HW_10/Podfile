@@ -1,0 +1,11 @@
+
+
+target 'HW_10' do
+  
+  use_frameworks!
+
+ pod 'GoogleMaps'
+  pod 'YandexMapsMobile', '4.0.0-lite'
+
+end
+
